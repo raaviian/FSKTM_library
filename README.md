@@ -1,2 +1,27 @@
 # FSKTM_library
-Group project section 4
+Group project for object oriented programming subject
+UTHM (Universiti Tun Hussein Onn Malaysia)
+
+## Getting Started
+Use your favourite IDE to run our program, this program is just a raw program
+which there is no GUI or etc, just run this code through terminal or some compiler
+
+### Group Members
+
+*RAVIANSYAH NOORMAN*
+AI210032
+
+*NUVANEHSAN A/L MUTHUTAMIL SELVAN*
+CI210083
+
+*AHMAD SYAHRUL HADI SAN*
+AI210043
+
+*ALIA SYAFIEKA BINTI YUSAINI*
+CI210091
+
+### Built With
+- IntelliJ IDEA COmmunity Edition
+- Java Development Kit
+- Visual Studio Code
+- Eclipse IDE
