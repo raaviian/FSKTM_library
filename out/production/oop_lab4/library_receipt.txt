@@ -1,0 +1,8 @@
+|----------------------------|
+| + Book Borrowing Receipt + |
+|----------------------------|
+    Name: ravi
+    Address: tamanu
+    Title: PercyJackson
+______________________________
+  Borrowed on: 2023-01-21
