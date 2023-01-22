@@ -1,6 +1,9 @@
 # FSKTM_library
 Group project for object oriented programming subject
 UTHM (Universiti Tun Hussein Onn Malaysia)
+This program can be use as library application to see all of book available,
+which here we make our faculty website a application program to borrow a book
+from faculty's FSKTM (Fakult Sains Komputer dan Tekologi Maklumat) library.
 
 ## Getting Started
 Use your favourite IDE to run our program, this program is just a raw program
