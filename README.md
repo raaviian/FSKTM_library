@@ -1,4 +1,4 @@
-# FSKTM_library
+# FSKTM Library System
 Group project for object oriented programming subject
 UTHM (Universiti Tun Hussein Onn Malaysia)
 This program can be use as library application to see all of book available,
