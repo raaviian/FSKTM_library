@@ -1,0 +1,8 @@
+|----------------------------|
+| + Book Borrowing Receipt + |
+|----------------------------|
+    Name: ravi
+    Address: tamau
+    Title: HarryPotter
+______________________________
+  Borrowed on: 2023-01-21
